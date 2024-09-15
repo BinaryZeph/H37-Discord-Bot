@@ -101,4 +101,4 @@ If you wish to contribute to **H37**, feel free to submit a pull request. Ensure
 
 ## Author
 
-Developed by Zephvarian. If you have any questions or feedback, feel free to reach out or open an issue on the repository.
+Developed by Zephvarian on Discord. If you have any questions or feedback, feel free to reach out or open an issue on the repository.
