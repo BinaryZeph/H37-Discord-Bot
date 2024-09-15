@@ -102,3 +102,11 @@ If you wish to contribute to **H37**, feel free to submit a pull request. Ensure
 ## Author
 
 Developed by Zephvarian on Discord. If you have any questions or feedback, feel free to reach out or open an issue on the repository.
+
+---
+
+## Disclaimer
+
+This project is not affiliated with or endorsed by **NetEase, Inc.**. The names **H37** and **Once Human**, as well as any associated images and assets, are the intellectual property of **NetEase, Inc.**.
+
+©1997-2024 NetEase, Inc. All Rights Reserved.
